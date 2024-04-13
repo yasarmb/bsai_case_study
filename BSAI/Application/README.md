@@ -1,4 +1,4 @@
-## yaar_mehmet_s_application5
+##BeforeSunsetCase
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
@@ -16,7 +16,7 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Running in dev environment
 
-1. `cd YOUR_APPLICATION`
+1. `cd ./Application`
 2. `npm install`
 3. `npm start`
 
@@ -27,33 +27,35 @@ This file contains various environment variables that you can configure.
 ## Folder Structure
 
 ```
-.
-├── package.json
-├── postcss.config.js
-├── public
-│   ├── assets
-│   │   ├── images --------- All Project Images
-│   │   └── fonts ---------- Project fonts
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── manifest.json
-│   └── robots.txt
-├── README.md
-├── src
-│   ├── App.jsx
-│   ├── components --------- UI and Detected Common Components
-│   ├── constants ---------- Project constants
-│   ├── hooks -------------- Helpful Hooks
-│   ├── index.jsx
-│   ├── pages -------------- All route pages
-│   ├── Routes.jsx ---------- Routing
-│   ├── styles
-│   │   ├── index.css ------ Other Global Styles
-│   │   └── tailwind.css --- Default Tailwind modules
-│   └── util
-│       └── index.jsx ------- Helpful utils
-└── tailwind.config.js ----- Entire theme config, colors, fonts etc.
-```
+
+./Application
+	│
+	├── package.json
+	├── postcss.config.js
+	├── public
+	│   ├── assets
+	│   │   ├── images --------- All Project Images
+	│   │   └── fonts ---------- Project fonts
+	│   ├── favicon.ico
+	│   ├── index.html
+	│   ├── manifest.json
+	│   └── robots.txt
+	├── README.md
+	├── src
+	│   ├── App.jsx
+	│   ├── components --------- UI and Detected Common Components
+	│   ├── constants ---------- Project constants
+	│   ├── hooks -------------- Helpful Hooks
+	│   ├── index.jsx
+	│   ├── pages -------------- All route pages
+	│   ├── Routes.jsx ---------- Routing
+	│   ├── styles
+	│   │   ├── index.css ------ Other Global Styles
+	│   │   └── tailwind.css --- Default Tailwind modules
+	│   └── util
+	│       └── index.jsx ------- Helpful utils
+	└── tailwind.config.js ----- Entire theme config, colors, fonts etc.
+	```
 
 For the project to build, **these files must exist with exact filenames**:
 
