@@ -16,7 +16,7 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Running in dev environment
 
-1. `cd ./Application`
+1. `cd ./BSAI/Application`
 2. `npm install`
 3. `npm start`
 
@@ -28,7 +28,7 @@ This file contains various environment variables that you can configure.
 
 ```
 
-./Application
+./BSAI/Application
 	│
 	├── package.json
 	├── postcss.config.js
